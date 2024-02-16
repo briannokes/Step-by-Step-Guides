@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: pfSense WireGard Using Nordlynx Guide 
 subtitle: Created by Brian Robert Nokes 2023
 ---
