@@ -82,7 +82,7 @@ round-avatar: true
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
 # --- General options --- #
@@ -103,7 +103,8 @@ share-links-active:
 title-on-all-pages: true
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 50
+excerpt_length: 100
+# 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
