@@ -1,9 +1,9 @@
 ---
 layout: page
-title: PFSENSE WIREGUARD USING NORDLYNX GUIDE 
+title: pfSense WireGard Using Nordlynx Guide 
 subtitle: Created by Brian Robert Nokes 2023
 ---
-<h1 style="text-align: center;">SETTING UP PFSENSE WIREGUARD WITH NORDVPN USING NORDLYNX STEP-BY-STEP GUIDE</h1>
+<h2 style="text-align: center;">Setting Up pfSense WireGuard with NordVpn using Nordlynx Step-By-Step Guide</h2>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <h4 style="text-align: left;">Thank you for taking the time to explore this comprehensive guide. I've invested significant effort into its creation, aiming to provide you with detailed and valuable insights. I trust that you will find it helpful and worthy of sharing with others.</h4>
