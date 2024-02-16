@@ -139,7 +139,8 @@ navbar-border-col: "#DDDDDD"
 page-col: "#1F1D19"
 # "#1F1D19"
 # "#FFFFFF"
-text-col: "#400000" # darker red
+text-col: "#D43D03" # orange red
+# "#D43D03" # orange red
 # "#BF0000" # dark red
 # "#400000" # darker red
 # "#B5A68C"
