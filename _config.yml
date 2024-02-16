@@ -139,11 +139,11 @@ navbar-border-col: "#DDDDDD"
 page-col: "#1F1D19"
 # "#1F1D19"
 # "#FFFFFF"
-text-col: "#D43D03" # orange red
+text-col: "#B5A68C" # light cream color
 # "#D43D03" # orange red
 # "#BF0000" # dark red
 # "#400000" # darker red
-# "#B5A68C"
+# "#B5A68C" # light cream color
 # "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
