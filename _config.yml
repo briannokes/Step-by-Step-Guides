@@ -22,7 +22,7 @@ author: Brian Robert Nokes 2024
 navbar-links:
   About Me: "aboutme"
   Step-by-Step Guide:
-    - SETTING UP PFSENSE WIREGUARD WITH NORDVPN USING NORDLYNX STEP-BY-STEP GUIDE: "SETTING UP PFSENSE WIREGUARD WITH NORDVPN USING NORDLYNX STEP-BY-STEP GUIDE"
+    - Setting Up pfSense WireGuard with NordVpn using Nordlynx Step-By-Step Guide: "SettingUp_pfSenseWireGuard_withNordVpn_usingNordlynxStep-By-StepGuide"
 # Author's home: "https://deanattali.com"
 
 ################
