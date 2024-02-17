@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: about me
+title:
+subtitle:
 ---
 
 about me updating...
