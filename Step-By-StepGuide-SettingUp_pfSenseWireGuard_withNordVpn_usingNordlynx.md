@@ -1,9 +1,10 @@
 ---
 layout: default
-title: pfSense WireGard Using Nordlynx Guide 
+title: Step-By-Step Guide - pfSense WireGard Using Nordlynx Guide
 subtitle: Created by Brian Robert Nokes 2023
 ---
-<h2 style="text-align: center;">Setting Up pfSense WireGuard with NordVpn using Nordlynx Step-By-Step Guide</h2>
+
+<h2 style="text-align: center;">Step-By-Step Guide - Setting Up pfSense WireGuard with NordVpn using Nordlynx</h2>
 <br>
 <span style="display:block; background-color:red; width:100%; height:2px;"></span>
 <h4 style="text-align: left;">Thank you for taking the time to explore this comprehensive guide. I've invested significant effort into its creation, aiming to provide you with detailed and valuable insights. I trust that you will find it helpful and worthy of sharing with others.</h4>
@@ -50,6 +51,7 @@ subtitle: Created by Brian Robert Nokes 2023
 <span style="text-align: left;">IPv4 Address</span><br>
 <span style="display: inline-block; margin: 0 50px 0 50px">10.5.0.2 /32 - pick anything that you don't have or someone else may not or just keep what NordVPN uses IPv4 Upstream gateway Selecting an upstream gateway causes the firewall to treat this interface as a WAN-type interface. This is a WAN-type interface NordVPN WG_NordVPN_nordlynxGW - 10.5.0.2</span>
 <br><br>
+
 <h2 style="text-align: left;">Save</h2>
 
 <br>
@@ -285,6 +287,7 @@ subtitle: Created by Brian Robert Nokes 2023
 <span style="display: inline-block; margin: 0 50px 0 90px">176.176.176.0 / 29</span><br>
 <span style="display: inline-block; margin: 0 50px 0 110px">Interface name here</span>
 <br><br>
+
 <h2 style="text-align: left;">Save</h2>
 
 <br>
@@ -317,6 +320,7 @@ subtitle: Created by Brian Robert Nokes 2023
 <span style="text-align: left;">Description</span><br>
 <span style="display: inline-block; margin: 0 50px 0 50px">Allow only VLAN/Network IP's to be routed over NordVPN lynx</span>
 <br><br>
+
 <h3 style="text-align: left;">Advanced Options</h3>
 <span style="text-align: left;">Tag</span><br>
 <span style="display: inline-block; margin: 0 50px 0 50px">NordVPN_WG_Kill_Switch_Tag</span><br>
